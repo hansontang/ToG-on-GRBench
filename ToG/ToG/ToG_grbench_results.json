@@ -1,0 +1,7 @@
+{
+    "dataset": "grbench",
+    "method": "ToG",
+    "Exact Match": 0.10948905109489052,
+    "Right Samples": 15,
+    "Error Sampels": 122
+}
